@@ -1,0 +1,6 @@
+{
+    "base_url": "https://stage.easypointapi.com/api",
+    "username": "easypoint@easypoint.com.tr",
+    "password": "935",
+    "report_file_path": "report.txt"
+}
